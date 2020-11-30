@@ -1,0 +1,58 @@
+
+#navbar1 {
+    background-color: white !important;
+    padding: 0 !important;
+}
+#navbar2 {
+    background-color: #EF1A1A !important;
+    border-radius: 5px;
+}
+
+ul li a {
+    font-size: large !important;
+}
+
+#fluid2 {
+    background-color: #F5F5F5;
+    padding: 40px 0px;
+}
+
+#container2{
+    padding: 0;
+}
+
+img {
+    border-radius: 5px;
+}
+a{
+    color: #0f0e0e;
+    text-decoration: none;
+}
+#brazil {
+    font-size: 22px;  
+    font-weight: bold;
+}
+
+a:hover {
+   color: red;
+   text-decoration: none;
+}
+.sidancor{
+    font-size: 18px;
+    font-weight: bold;
+}
+.ancorShop{
+    border: 1px solid rgb(77, 76, 76);
+    border-radius: 20px;
+    padding: 5px;
+}
+
+.descShop {
+    font-size: 22px;
+}
+
+#footer {
+    background-color: #13181C;
+    color: white;
+    padding: 50px 0;
+}
